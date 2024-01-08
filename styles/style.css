@@ -1,0 +1,31 @@
+/*New year Section*/
+.new-year{
+    background-image: url(../images/banner-image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    
+    
+    
+}
+.new-year-title1{
+    color: white;
+    text-align: center;
+    padding: 177px 530px 0px 530px;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: Merriweather;
+    color: aqua;
+    
+    
+}
+.new-year-title2{
+    color: white;
+    text-align: center;
+    padding: 0px 344px 177px 344px;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: Merriweather;
+    color: aqua;
+}
