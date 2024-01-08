@@ -80,7 +80,7 @@
     font-family: Merriweather;
     font-size: 64px;
     font-weight: 900;
-    padding: 126px 0px 0px 126px;
+    margin: 126px 0px 50px 120px;
 }
 
 .party-descript {
@@ -88,7 +88,9 @@
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    padding-left: 126px;;
+    padding-left: 120px;
+    margin-bottom: 40px;
+
 }
 
 .party-join {
@@ -96,7 +98,7 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
-    padding: 20px 0px 142px 158px;
+    margin: 50px 0px 142px 158px;
 }
 .party-image{
     padding: 76px 145px 70px 20px
