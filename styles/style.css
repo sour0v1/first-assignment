@@ -63,3 +63,41 @@
     font-size: 48px;
     font-weight: 700;
 }
+
+/*Party Section*/
+.party {
+    background-image: url(../images/midnight-party.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.party-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    padding: 126px 0px 0px 126px;
+}
+
+.party-descript {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 126px;;
+}
+
+.party-join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 0px 142px 158px;
+}
+.party-image{
+    padding: 76px 145px 70px 20px
+}
