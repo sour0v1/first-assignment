@@ -242,6 +242,7 @@
 .portfolio-images {
     display: flex;
     flex-wrap: wrap;
+    margin: 0 auto;
 
 }
 
@@ -261,10 +262,12 @@
     text-align: center;
 
 }
-.newsletter-section img{
-padding-top: 80px;
+
+.newsletter-section img {
+    padding-top: 80px;
 }
-.newsletter-section h2{
+
+.newsletter-section h2 {
     color: #070211;
 
     text-align: center;
@@ -272,7 +275,8 @@ padding-top: 80px;
     font-size: 48px;
     font-weight: 900;
 }
-.newsletter-section p{
+
+.newsletter-section p {
     color: rgba(7, 2, 17, 0.60);
 
     text-align: center;
@@ -281,19 +285,108 @@ padding-top: 80px;
     font-weight: 400;
     margin: 0px 212px 0px 212px;
 }
-.input-div{
+
+.input-div {
     padding-top: 80px;
 }
-.input-div input{
-  padding: 20px 60px;
-  border: 0;
-  background: #FFF;
-  color: rgba(7, 2, 17, 0.30);
+
+.input-div input {
+    padding: 20px 60px;
+    border: 0;
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
 }
-.input-div button{
+
+.input-div button {
     padding: 20px 30px;
     border-radius: 0px 50px 50px 0px;
     border: 0;
     background: #F00;
     color: #FFF;
+}
+
+/*Footer Section*/
+.footer-section {
+    margin: 0 auto;
+    width: 1600px;
+    height: 609px;
+    background-color: #070211;
+}
+
+.footer-section1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section1 div p,
+span {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.footer-section1 .address p {
+    padding: 120px 0px 0px 120px;
+    width: 375px;
+}
+
+.address {
+    padding-top: 20px;
+    padding-left: 16px;
+}
+
+.contact {
+    padding-bottom: 30px;
+}
+
+.contact p {
+    padding: 120px 275px 0px 0px;
+}
+
+.contact p img {
+    padding: 0px 10px;
+
+}
+
+.contact span {
+    padding: 0px 275px 0px 0px;
+}
+
+.contact span img {
+    padding: 0px 10px;
+}
+
+hr {
+    width: 1320px;
+}
+
+.footer-section2 {
+    text-align: center;
+    padding: 40px;
+}
+
+.footer-section2 img {
+    padding: 10px;
+}
+
+.footer-section3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section3 .copyright {
+    color: #FFF;
+    padding: 0px 0px 120px 140px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.footer-section3 .unsub {
+    color: #FFF;
+    padding: 0px 140px 120px 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
