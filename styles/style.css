@@ -213,7 +213,6 @@
     width: 1600px;
     margin: 0 auto;
     margin-top: 120px;
-
 }
 
 .portfolio-title1 {
@@ -249,6 +248,10 @@
 .portfolio-images div {
     padding: 10px;
 
+}
+.portfolio-images div:hover{
+    border: 5px solid dodgerblue;
+    border-radius: 10px;
 }
 
 /*Newsletter Section*/
@@ -308,6 +311,7 @@
 /*Footer Section*/
 .footer-section {
     margin: 0 auto;
+    margin-top: 120px;
     width: 1600px;
     height: 609px;
     background-color: #070211;
