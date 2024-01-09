@@ -18,7 +18,7 @@
     font-size: 32px;
     font-weight: 400;
     font-family: Merriweather;
-    color: aqua;
+    
 
 
 }
@@ -30,7 +30,7 @@
     font-size: 72px;
     font-weight: 700;
     font-family: Merriweather;
-    color: aqua;
+   
 }
 
 /*Discount Section*/
@@ -189,7 +189,7 @@
     border: 15px solid #F00;
     border-radius: 463px;
     padding: 35px;
-    
+
 }
 
 .offer-section2 {
